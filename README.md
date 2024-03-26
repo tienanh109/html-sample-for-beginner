@@ -28,3 +28,7 @@ Includes the most common html tags with explanatory comments for beginners
 12. **New HTML5 Tags (`<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, `<aside>`, `<blockquote>`, `<abbr>`, `<address>`, `<main>`, `<details>`, `<summary>`, `<time>`)**: These are newer HTML5 tags introduced for better semantics and structure. They include elements for headers, footers, navigation menus, articles, sections, sidebars, blockquotes, abbreviations, contact information, main content, details sections, summaries, and dates/times.
 
 You can download this HTML file (source code) from my GitHub repository here. Feel free to explore the code and use it for your learning purposes or in your projects.
+
+
+Source code credit by: [tienanh109](https://youtube.com/tienanh90)
+I'm just a reup guy, please support him
