@@ -32,5 +32,7 @@ You can download this HTML file (source code) from my GitHub repository here. Fe
 
 Source Code: https://github.com/jennycute3744/html-sample-for-beginner/blob/main/index.html
 
+[Website preview here!](https://jennycute3744.github.io/html-sample-for-beginner/)
+
 Source code credit by: [tienanh109](https://youtube.com/tienanh90)
 I'm just a reup guy, please support him
