@@ -34,5 +34,5 @@ Source Code: https://github.com/jennycute3744/html-sample-for-beginner/blob/main
 
 [Website preview here!](https://jennycute3744.github.io/html-sample-for-beginner/)
 
-Source code credit by: [tienanh109](https://youtube.com/tienanh_90)
+Source code credit by: [tienanh109](https://youtube.com/@tienanh_90)
 I'm just a reup guy, please support him
